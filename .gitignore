@@ -3,3 +3,4 @@ Gemfile.lock
 .cache
 .kitchen
 bin
+tmp/
