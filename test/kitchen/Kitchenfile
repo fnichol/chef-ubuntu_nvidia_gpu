@@ -1,0 +1,3 @@
+cookbook "chef-ubuntu_nvidia_gpu" do
+  runtimes []
+end
