@@ -1,4 +1,4 @@
-# <a name="title"></a> chef-ubuntu_nvidia_gpu
+# <a name="title"></a> chef-ubuntu_nvidia_gpu [![Build Status](https://secure.travis-ci.org/fnichol/chef-ubuntu_nvidia_gpu.png)](http://travis-ci.org/fnichol/chef-ubuntu_nvidia_gpu)
 
 ## <a name="description"></a> Description
 
